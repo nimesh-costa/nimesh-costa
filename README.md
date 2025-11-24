@@ -4,7 +4,7 @@
         <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nimesh+Costa+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
 <h3 align="center">A passionate Computer Science Student |  Exploring the Boundless World of Technology
